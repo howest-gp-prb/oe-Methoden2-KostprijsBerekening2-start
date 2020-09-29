@@ -13,7 +13,7 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 
-namespace Methoden2.KostprijsBerekening2.WPF
+namespace Prb.KostprijsBerekening2.WPF
 {
     /// <summary>
     /// Interaction logic for MainWindow.xaml
